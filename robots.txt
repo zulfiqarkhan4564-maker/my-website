@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zulfiqarkhan4564-maker.github.io/my-website/sitemap.xml
